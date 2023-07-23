@@ -3,6 +3,6 @@
 Welcome to my site
 
 
-[about](/about.md)
+[about](/docs/about.md)
 
 
